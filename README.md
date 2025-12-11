@@ -1,4 +1,4 @@
-# Assignments Internship
+# Assignments
 
 This repository contains a backend API built with NestJS and TypeORM and a frontend built with React (Vite + TypeScript).
 
